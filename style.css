@@ -1,3 +1,30 @@
 p {
     font-family: monospace;
 }
+
+Summary {
+    color:aqua;
+}
+
+li {
+    color:brown;
+
+}
+
+h2 {
+    color:orangered
+}
+
+.makeItBig {
+
+    font-weight: 400;
+
+}
+
+#showMe {
+    text-transform: uppercase;
+}
+
+#showMe2 {
+    font-weight: 250;
+}
