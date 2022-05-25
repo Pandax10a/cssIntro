@@ -18,6 +18,7 @@ h2 {
 .makeItBig {
 
     font-weight: 400;
+    box-shadow: 3px 3px 10px purple;
 
 }
 
